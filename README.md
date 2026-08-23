@@ -8,5 +8,4 @@
 ![Coding](https://img.shields.io/badge/coding-robotic_stuffs-9cf?style=flat-square&logo=visualstudiocode)
 ![Listening](https://img.shields.io/badge/listening_music-1DB954?style=flat-square&logo=spotify)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1NRAPAT&show_icons=true&theme=tokyonight)
 
